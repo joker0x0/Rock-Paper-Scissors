@@ -100,3 +100,4 @@ void play() {
     chooseSymbol(options[randomNum]);
     
 }
+//Eng. Roshdy E.
